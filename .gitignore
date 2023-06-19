@@ -1,3 +1,4 @@
 .env
 weaviate/resume_qna/data/Resume/*
 weaviate/resume_qna/data/rawdata/*
+*/.DS_Store
